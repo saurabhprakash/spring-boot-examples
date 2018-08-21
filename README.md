@@ -30,3 +30,6 @@ For the best offers on our courses, Join our 15K Subscribers [here](http://eepur
 - Instagram : https://www.instagram.com/in28minutes/
 
 Springboot Swagger Integration with same github link: http://www.springboottutorial.com/spring-boot-swagger-documentation-for-rest-services
+
+URL for json response of swagger: http://localhost:8080/v2/api-docs
+URL for UI swagger: http://localhost:8080/swagger-ui.html
